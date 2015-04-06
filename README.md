@@ -36,3 +36,23 @@ bundle exec rake spree_sample:load
 
 ### in case you got error when load sample data
 ```
+
+## TODO
+
+#### 1. There are a lot of things I wanna improve. These include some gems like:
+
+gem 'spree_fancy'
+
+gem 'spree_social'
+
+gem 'rubocop', '0.24.1'
+
+gem 'friendly_id'
+
+And some ones from awesome ruby gems list
+
+
+#### 2. I also wanna custom views, model, controllers ...
+
+
+
