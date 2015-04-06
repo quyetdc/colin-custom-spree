@@ -37,6 +37,21 @@ bundle exec rake spree_sample:load
 ### in case you got error when load sample data
 ```
 
+## Testing
+
+#### Login with
+```ruby
+account: spree@example.com
+password: password
+```
+
+#### Test admin
+```ruby
+url: localhost:3000/admin
+account: spree@example.com
+password: password
+```
+
 ## TODO
 
 #### 1. There are a lot of things I wanna improve. These include some gems like:
